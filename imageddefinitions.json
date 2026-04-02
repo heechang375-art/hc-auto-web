@@ -1,0 +1,6 @@
+[
+  {
+    "name": "hc-app-container",
+    "imageUri": "354493396671.dkr.ecr.ap-southeast-1.amazonaws.com/hc-ecs-repo:latest"
+  }
+]
